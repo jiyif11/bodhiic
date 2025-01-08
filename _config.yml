@@ -1,0 +1,27 @@
+---
+project:
+  name: 软银科技
+  owner: runningit
+  tel: 19951785199
+  repo: https://www.runningit.cn
+collections:
+  Products:
+    output: true
+    permalink: "/:collection/:path/"
+    title: 相关产品
+    tab-order: 1
+  switch:
+    output: true
+    permalink: "/:collection/:path/"
+    title: 可编程交换芯片
+    tab-order: 2
+highlighter: rouge
+kramdown:
+  footnote_backlink: "⮌"
+permalink: pretty
+sass:
+  style: compressed
+plugins:
+- jemoji
+- jekyll-remote-theme
+remote_theme: pixeldroid/programming-pages
