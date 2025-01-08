@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 软银科技
+title: 璞钛科技
 ---
 
 # {{ page.title }}
