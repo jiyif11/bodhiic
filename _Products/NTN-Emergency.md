@@ -48,7 +48,7 @@ order: 6
 | 处理器     | 支持 1~2 颗璞钛系列高性能 ARM v9.0 N2 内核处理器<br>每颗最大支持 128 个内核<br>可作为领域定制异构处理器（Domain Specific Heterogeneous Processsor）    |
 | 内存插槽     | 32 个 `DDR5` `RDIMM` `ECC` 内存插槽<br>最大内存容量可达 8TB 最高运行速率    |
 | 硬盘控制器     | 支持标准和自研存储 `HBA` `Raid` 卡<br>支持 `SAS4.0` `SAS3.0` `SATA3.0` `PCIe5.0` `PCIe4.0`    |
-| 网卡     | 10G*10，100G*1    |
+| 网卡     | `10G*10` `100G*1`    |
 | 系统管理     | WEB 中文管理界面，支持 `IPMI2.0` `SNMP` `SOL` `RedFish` `KVM Over IP`    |
 | <span>{% include icon.liquid id='awesome-codepen' %} <b>5G基站</b></span> |   |
 |----------|:---------:|
