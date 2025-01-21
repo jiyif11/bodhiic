@@ -14,7 +14,7 @@ order: 7
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1月20日，全球首颗矿用AI卫星—“开物星座·试验星”在中国酒泉卫星发射中心成功发射，标志着我国航天+矿山领域迎来一次重大突破。<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`**“开物星座·试验星”具备哪些核心技术，将为全球矿山提供怎样的服务，今天我们来一一揭晓。**`<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**`“开物星座·试验星”具备哪些核心技术，将为全球矿山提供怎样的服务，今天我们来一一揭晓。`**<br>
 ![sample image](image.png "扩展阅读")
 
 ## 技术：高性能芯片+领先技术
