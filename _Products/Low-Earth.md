@@ -8,13 +8,13 @@ order: 7
 
 ![sample image](https://www.runningit.cn/Products/NTN-Chip/640.gif "展示图")
 
-<div style="position: relative; padding: 30% 45%;">
-<iframe style="position: absolute; width: 50%; height: 50%; left: 0; top: 0;" src="f10002.mp4" scrolling="off" border="0" frameborder="off" framespacing="0" allowfullscreen="false"></iframe>
+<div>
+<iframe style="width: 50%; height: 50%; left: 0; top: 0;" src="f10002.mp4" sandbox="" scrolling="off" border="0" frameborder="0" framespacing="0" allowfullscreen="false"></iframe>
 </div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1月20日，全球首颗矿用AI卫星—“开物星座·试验星”在中国酒泉卫星发射中心成功发射，标志着我国航天+矿山领域迎来一次重大突破。<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`“开物星座·试验星”具备哪些核心技术，将为全球矿山提供怎样的服务，今天我们来一一揭晓。`<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`**“开物星座·试验星”具备哪些核心技术，将为全球矿山提供怎样的服务，今天我们来一一揭晓。**`<br>
 ![sample image](image.png "扩展阅读")
 
 ## 技术：高性能芯片+领先技术
@@ -53,21 +53,3 @@ order: 7
 通过卫星影像，实现对矿区资源规划、开采情况、植被恢复、地质灾害隐患以及水体污染等进行全方位、实时的监测，有效降低安全风险，保障矿山可持续发展。<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“开物星座·试验星”的成功发射，预示着未来将有更多基于空间智能的智能化解决方案应用于传统行业，为产业升级注入新的活力。预示着一个由中国企业引领的矿业智能化新时代的到来。开物星空和璞钛科技凭借其领先的技术实力和前瞻的战略布局，必将在这一进程中扮演至关重要的角色。<br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;璞钛科技发言人表示：“AI-RAN”系统是AI、RAN、雷达和空间智能技术完美融合的典范。其卓越的性能和高性价比，将为低空空管、车路云、智慧采矿、智慧港口行业用户创造巨大的经济效益，并推动空间智能技术广泛应用。我们期待与合作伙伴一起，将这项全产业链自主可控的技术应用于更多领域。<br>
-
-**“AI-RAN”系统主要优势：**<br>
-
-- **超高投资回报率**<br>
-- **低运营成本:** 显著**降低低空空管、车路云、智慧采矿、智慧港口**的运营成本。<br>
-- **高效率:** 大幅提升数据处理速度和应用效率。<br>
-- **高可靠性:** 确保行业应用的稳定性和可靠性。<br>
-- **同时运行AI、5G、雷达、感知、自动驾驶工作负载:** 实现AI和5G、雷达、感知、自动驾驶能力协同。<br>
-- **卓越性价比:** 显著优于英伟达和软银的同类解决方案。<br>
-
-![sample image](https://www.runningit.cn/Products/NTN-Chip/2.png "空间智能架构")<br>
-
-**未来展望：**开物星空和璞钛科技将继续深耕“AI-RAN”空间智能技术及应用场景，不断提升其性能和应用范围，并积极拓展其在矿产资源勘探、低空空域管理、车路云、港口调度、低轨卫星等领域的应用，为构建更加智能、高效的全产业链自主可控产业贡献力量。更多关于AI-RAN的技术细节和商业应用将在在南京举行的“空间智能生态大会”上进一步揭晓。
-
-![sample image](640.png "扩展阅读")
-
