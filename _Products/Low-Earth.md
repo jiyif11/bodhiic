@@ -8,8 +8,8 @@ order: 7
 
 ![sample image](https://www.runningit.cn/Products/NTN-Chip/640.gif "展示图")
 
-<div style="position: relative; padding: 10px 0px;">
-<iframe style="width: 892px; height: 512px; left: 0; top: 0;" src="f10002.mp4" sandbox="" scrolling="off" border="0" frameborder="0" framespacing="0" allowfullscreen="true"></iframe>
+<div style="position: relative; padding: 0px 0px;">
+<iframe style="width: 960px; height: 540px; left: 0; top: 0;" src="f10002.mp4" sandbox="" scrolling="off" border="0" frameborder="0" framespacing="0" allowfullscreen="true"></iframe>
 </div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1月20日，全球首颗矿用AI卫星—“开物星座·试验星”在中国酒泉卫星发射中心成功发射，标志着我国航天+矿山领域迎来一次重大突破。<br>
