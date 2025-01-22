@@ -1,9 +1,9 @@
 ---
 project:
-  name: 软银科技
-  owner: runningit
+  name: 璞钛科技
+  owner: bodhiic
   tel: 19951785199
-  repo: https://www.runningit.cn
+  repo: https://www.bodhiic.cn
 collections:
   Products:
     output: true
