@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 64C+256G璞钛单板计算机
+title: 64核单板计算机
 description: 璞钛单板计算机 规格简介
 
 order: 10
