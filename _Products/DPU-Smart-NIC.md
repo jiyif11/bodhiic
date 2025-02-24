@@ -3,7 +3,7 @@ layout: page
 title: DPU智能网卡
 description: DPU Smart NIC
 
-order: 4
+order: 3
 ---
 # {{ page.title }}
 
