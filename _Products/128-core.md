@@ -70,5 +70,5 @@ Bodhi 128 核 CPU 被誉为“高性价比”典范。在采购阶段的同等�
 ---
 总的来说，Bodhi 128 核 CPU  已全面化解科研计算中的六大痛点，使每项科学运算都行云流水，也让科研经费精准落在最关键之处。<br>
 ![sample image](18.webp "展示图")<br>
-<strong style="box-sizing: border-box;"><span leaf="">点击下方 关注我们</span></strong>
+###关注我们<br>
 ![sample image](18.webp "展示图")<br>
